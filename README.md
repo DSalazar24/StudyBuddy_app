@@ -30,3 +30,20 @@ StudyBuddy is a simple and beautiful desktop productivity app built using Python
    ```bash
    git clone https://github.com/DSalazar24/StudyBuddy_app.git
    cd StudyBuddy_app
+2.** **Install dependencies****
+-Make sure Python 3 is installed, then run:
+-pip install matplotlib
+
+3. ****run the main file** **
+- python main.py
+
+- **Project Goals******
+-Help students manage their time effectively
+
+-Provide a simple and local alternative to online productivity tools
+
+-Build a user-friendly tool that combines focus, tasks, and motivation in one place
+
+
+
+
